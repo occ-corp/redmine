@@ -105,3 +105,5 @@ Dir.glob File.expand_path("../plugins/*/Gemfile", __FILE__) do |file|
   #TODO: switch to "eval_gemfile file" when bundler >= 1.2.0 will be required (rails 4)
   instance_eval File.read(file), file
 end
+
+gem 'jpmobile', :git => 'http://git.es.occ.co.jp:8080/git/redmine/jpmobile.git', :branch => 'occ-v4.1.0'
