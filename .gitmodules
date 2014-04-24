@@ -1,0 +1,3 @@
+[submodule "plugins/redmine_gantt_view_overwrite"]
+	path = plugins/redmine_gantt_view_overwrite
+	url = http://git.es.occ.co.jp:8080/git/redmine/redmine_gantt_view_overwrite.git
