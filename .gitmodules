@@ -4,3 +4,6 @@
 [submodule "plugins/custom_field_aggregator"]
 	path = plugins/custom_field_aggregator
 	url = http://git.es.occ.co.jp/git/redmine/custom_field_aggregator.git
+[submodule "plugins/redmine_text_format_selector"]
+	path = plugins/redmine_text_format_selector
+	url = http://git.es.occ.co.jp:8080/git/redmine/redmine_text_format_selector.git
