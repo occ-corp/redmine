@@ -1,9 +1,9 @@
 [submodule "plugins/redmine_gantt_view_overwrite"]
 	path = plugins/redmine_gantt_view_overwrite
-	url = http://git.es.occ.co.jp:8080/git/redmine/redmine_gantt_view_overwrite.git
+	url = https://github.com/occ-corp/redmine_gantt_view_overwrite.git
 [submodule "plugins/custom_field_aggregator"]
 	path = plugins/custom_field_aggregator
-	url = http://git.es.occ.co.jp/git/redmine/custom_field_aggregator.git
+	url = https://github.com/occ-corp/redmine_custom_field_aggregator.git
 [submodule "plugins/redmine_text_format_selector"]
 	path = plugins/redmine_text_format_selector
-	url = http://git.es.occ.co.jp:8080/git/redmine/redmine_text_format_selector.git
+	url = https://github.com/Tomohiro/redmine_text_format_selector.git
