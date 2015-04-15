@@ -7,3 +7,7 @@
 [submodule "plugins/redmine_gantt_view_overwrite"]
 	path = plugins/redmine_gantt_view_overwrite
 	url = https://github.com/occ-corp/redmine_gantt_view_overwrite
+[submodule "plugins/csv_import_issues"]
+	path = plugins/csv_import_issues
+	url = https://github.com/occ-corp/csv_import_issues
+	branch = occ
