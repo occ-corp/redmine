@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gem 'redmine_gantt_view_overwrite', github: 'occ-corp/redmine_gantt_view_overwrite'
+gem 'redmine_text_format_selector', github: 'Tomohiro/redmine_text_format_selector'
+gem 'redmine_custom_field_aggregator', github: 'occ-corp/redmine_custom_field_aggregator'
